@@ -54,8 +54,10 @@ body {
 .content {
     padding-left: 5%;
     padding-right: 5%;
+}
+
+.center-img {
     text-align: center;
-    align-content: center;
 }
 
 .game {
@@ -63,6 +65,17 @@ body {
     padding-bottom: 3%;
     width: 20%;
     height: auto;
+    align-content: center;
+    text-align: center;
+}
+
+.interface {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 80%;
+    height: auto;
+    align-content: center;
+    text-align: center;
 }
 
 #footer {
@@ -76,4 +89,18 @@ h3 {
     padding-top: 3%;
     text-align: left;
     padding-left: 3%;
+}
+
+.margin-text {
+    padding-left: 5%;
+}
+
+.script_img {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 80%;
+    height: auto;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
 }
